@@ -32,9 +32,9 @@ The pipeline was first developed for company insolvencies and then repeated for 
 
 ## Project Structure
 
-src/ Python scripts for cleaning, feature engineering and modelling
-notebooks/ Demonstration notebooks for pipeline and final model
-data/ Cleaned and final datasets
+- src/ Python scripts for cleaning, feature engineering and modelling
+- notebooks/ Notebooks for pipeline and final model
+- data/ Cleaned datasets
 
 ## Technologies
 
@@ -42,7 +42,7 @@ Python, pandas, NumPy, statsmodels, matplotlib, Jupyter Notebook
 
 ## Data Sources
 
-Raw datasets are not included in this repository due to file size and source limitations. The repository includes cleaned/intermediate datasets used for modelling.
+Raw datasets are not included in this repository due to file size. The repository includes cleaned/intermediate datasets used for modelling.
 
 Original data sources:
 
